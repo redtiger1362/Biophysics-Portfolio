@@ -1,0 +1,4 @@
+Environment,Gamma (Damping),Damping Ratio (ζ),Final Energy Residual,Max Velocity
+Water (In vitro),0.1,0.016,1.12163,3.087
+Cytoplasm,0.5,0.079,0.0028,2.81
+Protein Condensate (Dense),2.0,0.316,0.0,2.084
